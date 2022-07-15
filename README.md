@@ -6,7 +6,7 @@
 
 <img src="icon.png" align="left" width="25%"/>
 
-Thefxc creates a boss app in Pittsburgh
+The fxc creates the CORRECT app in Pittsburgh
 
 ## Requirements
 

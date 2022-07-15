@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project default="all" name="fxc-application">
-  <description>Thefxc creates a boss app in Pittsburgh</description>
+  <description>The fxc creates the CORRECT app in Pittsburgh</description>
   <xmlproperty file="expath-pkg.xml" />
   <property name="project.version" value="${package(version)}" />
   <property name="project.app" value="fxc-application" />

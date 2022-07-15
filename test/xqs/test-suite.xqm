@@ -7,7 +7,7 @@ xquery version "3.1";
  : @see http://exist-db.org
  :)
 
-module namespace tests = "http://thefxc/apps/fxc-ap/tests";
+module namespace tests = "http://exist-db.org/apps/fxc-app/tests";
 
 declare namespace test="http://exist-db.org/xquery/xqsuite";
 
